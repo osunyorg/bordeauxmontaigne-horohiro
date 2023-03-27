@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Mon corset et moi
+  target: "/mon-corset-et-moi/"
+  kind: page
+  children: []
 

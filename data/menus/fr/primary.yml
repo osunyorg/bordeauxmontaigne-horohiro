@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Mon corset et moi
-  target: "/mon-corset-et-moi/"
+  target: "/librairie-de-blocs/"
   kind: page
   children: []
 

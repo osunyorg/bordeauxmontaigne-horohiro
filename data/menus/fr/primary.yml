@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Mon corset et moi
+- title: Librairie de blocs
   target: "/librairie-de-blocs/"
   kind: page
   children: []

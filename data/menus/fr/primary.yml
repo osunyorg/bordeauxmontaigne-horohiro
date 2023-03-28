@@ -1,8 +1,4 @@
 ---
 title: Menu principal
-items:
-- title: Librairie de blocs
-  target: "/librairie-de-blocs/"
-  kind: page
-  children: []
+items: []
 

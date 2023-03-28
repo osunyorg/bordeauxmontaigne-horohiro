@@ -13,4 +13,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Accueil
+  target: horohiro.org
+  kind: url
+  children: []
 

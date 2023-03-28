@@ -4,3 +4,24 @@
             picture
                 img
                     max-height: 40vh
+
+.page__home 
+    #block-1 
+        @include media-breakpoint-up(desktop)
+            .chapter
+                flex-direction: row-reverse
+                justify-content: space-between
+                figure
+                    margin-left: 0 
+
+.hero 
+    .content 
+        figure 
+            img
+                max-width: 50vw
+                margin: auto
+                 
+
+    &.hero--with-image 
+        .content 
+            align-items: end

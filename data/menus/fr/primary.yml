@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Accueil
+  target: horohiro.org
+  kind: url
+  children: []
 - title: La scoliose simplifiée
   target: "/ma-scoliose-mon-corset-et-moi/"
   kind: page
@@ -12,9 +16,5 @@ items:
 - title: Contact
   target: "/contact/"
   kind: page
-  children: []
-- title: Accueil
-  target: horohiro.org
-  kind: url
   children: []
 

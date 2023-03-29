@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Accueil
-  target: "../horohiro.org"
+  target: "../../horohiro.org"
   kind: url
   children: []
 - title: La scoliose simplifiée

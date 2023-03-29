@@ -10,7 +10,7 @@ items:
   kind: page
   children: []
 - title: À propos
-  target: "/a-propos/"
+  target: "/a-propos-horo-hiro/"
   kind: page
   children: []
 - title: Contact

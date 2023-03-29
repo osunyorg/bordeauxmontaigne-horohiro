@@ -7,18 +7,22 @@
 
 .page__home 
     #block-1 
-        @include media-breakpoint-up(desktop)
-            .chapter
+        .chapter
+            flex-direction: column-reverse
+            @include media-breakpoint-up(desktop)
                 flex-direction: row-reverse
                 justify-content: space-between
                 figure
                     margin-left: 0 
 
+                
+                    
+
 .hero 
     .content 
         figure 
             img
-                max-width: 50vw
+                max-width: 80vw
                 margin: auto
                  
 

@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Accueil
-  target: "../../horohiro.org"
+- title: Accueil test
+  target: "../"
   kind: url
   children: []
 - title: La scoliose simplifiée

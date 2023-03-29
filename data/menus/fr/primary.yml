@@ -5,10 +5,6 @@ items:
   target: "/"
   kind: page
   children: []
-- title: La scoliose simplifiée
-  target: "/ma-scoliose-mon-corset-et-moi/"
-  kind: page
-  children: []
 - title: À propos d'Horo Hiro
   target: "/a-propos-horo-hiro/"
   kind: page

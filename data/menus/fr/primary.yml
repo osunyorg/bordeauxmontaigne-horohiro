@@ -2,8 +2,8 @@
 title: Menu principal
 items:
 - title: Accueil
-  target: "../"
-  kind: url
+  target: "/"
+  kind: page
   children: []
 - title: La scoliose simplifiée
   target: "/ma-scoliose-mon-corset-et-moi/"

@@ -9,4 +9,8 @@ items:
   target: https://www.tiktok.com/@horohiro_org
   kind: url
   children: []
+- title: Twitter
+  target: https://twitter.com/horohiro_org
+  kind: url
+  children: []
 

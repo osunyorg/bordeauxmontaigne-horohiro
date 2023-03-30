@@ -5,4 +5,8 @@ items:
   target: https://www.instagram.com/horohiro_org/
   kind: url
   children: []
+- title: Tiktok
+  target: https://www.tiktok.com/@horohiro_org
+  kind: url
+  children: []
 

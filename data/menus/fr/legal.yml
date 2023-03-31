@@ -1,6 +1,10 @@
 ---
 title: Informations légales
 items:
+- title: Presse & Médias
+  target: "/presse-medias/"
+  kind: page
+  children: []
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
@@ -15,10 +19,6 @@ items:
   children: []
 - title: Plan du site
   target: "/plan-du-site/"
-  kind: page
-  children: []
-- title: Presse & Médias
-  target: "/presse-medias/"
   kind: page
   children: []
 

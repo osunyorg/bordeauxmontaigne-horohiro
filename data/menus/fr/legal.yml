@@ -17,4 +17,8 @@ items:
   target: "/plan-du-site/"
   kind: page
   children: []
+- title: Presse & Médias
+  target: "/presse-medias/"
+  kind: page
+  children: []
 

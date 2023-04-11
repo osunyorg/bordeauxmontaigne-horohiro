@@ -13,4 +13,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: J'ai une scoliose
+  target: ''
+  kind: blank
+  children: []
 

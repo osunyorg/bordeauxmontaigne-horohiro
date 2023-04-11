@@ -16,5 +16,9 @@ items:
 - title: J'ai une scoliose
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Témoignages
+    target: "/temoignages/"
+    kind: page
+    children: []
 

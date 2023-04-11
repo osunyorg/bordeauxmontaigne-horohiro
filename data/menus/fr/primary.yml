@@ -5,16 +5,16 @@ items:
   target: "/"
   kind: page
   children: []
+- title: J'ai une scoliose
+  target: "/jai-une-scoliose/"
+  kind: page
+  children: []
 - title: À propos d'Horo Hiro
   target: "/a-propos-horo-hiro/"
   kind: page
   children: []
 - title: Contact
   target: "/contact/"
-  kind: page
-  children: []
-- title: J'ai une scoliose
-  target: "/jai-une-scoliose/"
   kind: page
   children: []
 

@@ -13,6 +13,10 @@ items:
     target: "/temoignages/"
     kind: page
     children: []
+- title: Je veux contribuer
+  target: ''
+  kind: blank
+  children: []
 - title: À propos d'Horo Hiro
   target: "/a-propos-horo-hiro/"
   kind: page
@@ -20,9 +24,5 @@ items:
 - title: Contact
   target: "/contact/"
   kind: page
-  children: []
-- title: Je veux contribuer
-  target: ''
-  kind: blank
   children: []
 

@@ -9,6 +9,10 @@ items:
   target: ''
   kind: blank
   children:
+  - title: 'Le corset : comment vivre avec ?'
+    target: "/le-corset-comment-vivre-avec/"
+    kind: page
+    children: []
   - title: Témoignages
     target: "/temoignages/"
     kind: page

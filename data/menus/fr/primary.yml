@@ -5,7 +5,7 @@ items:
   target: "/"
   kind: page
   children: []
-- title: J'ai une scoliose
+- title: Comprendre la scoliose
   target: ''
   kind: blank
   children:

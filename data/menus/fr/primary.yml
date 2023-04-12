@@ -21,6 +21,10 @@ items:
     target: "/je-suis-artiste/"
     kind: page
     children: []
+  - title: Je veux partager mon expérience
+    target: "/je-veux-partager-mon-experience/"
+    kind: page
+    children: []
 - title: À propos d'Horo Hiro
   target: "/a-propos-horo-hiro/"
   kind: page

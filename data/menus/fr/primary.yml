@@ -34,7 +34,7 @@ items:
     kind: page
     children: []
 - title: À propos d'Horo Hiro
-  target: "/a-propos-horo-hiro/"
+  target: "/a-propos/"
   kind: page
   children: []
 - title: Contact

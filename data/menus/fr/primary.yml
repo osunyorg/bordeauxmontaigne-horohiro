@@ -17,6 +17,10 @@ items:
     target: "/tous-les-temoignages/"
     kind: page
     children: []
+- title: Témoignages
+  target: ''
+  kind: blank
+  children: []
 - title: Personnalisation
   target: ''
   kind: blank
@@ -32,9 +36,5 @@ items:
 - title: Contact
   target: "/contact/"
   kind: page
-  children: []
-- title: Témoignages
-  target: ''
-  kind: blank
   children: []
 

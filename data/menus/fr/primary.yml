@@ -33,12 +33,12 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Je suis artiste
-    target: "/customiser-un-corset/"
-    kind: page
-    children: []
   - title: J'ai un corset
     target: "/jai-un-corset/"
+    kind: page
+    children: []
+  - title: Je suis artiste
+    target: "/customiser-un-corset/"
     kind: page
     children: []
 - title: À propos

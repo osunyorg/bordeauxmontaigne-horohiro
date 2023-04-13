@@ -14,7 +14,7 @@ items:
     kind: page
     children: []
   - title: Témoignages
-    target: "/temoignages/"
+    target: "/tous-les-temoignages/"
     kind: page
     children: []
 - title: Personnalisation

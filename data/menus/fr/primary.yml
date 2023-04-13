@@ -25,6 +25,10 @@ items:
     target: "/tous-les-temoignages/"
     kind: page
     children: []
+  - title: Partager mon vécu
+    target: "/partager-mon-vecu/"
+    kind: page
+    children: []
 - title: Personnalisation
   target: ''
   kind: blank

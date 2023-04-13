@@ -20,7 +20,11 @@ items:
 - title: Témoignages
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Tous les témoignages
+    target: "/tous-les-temoignages/"
+    kind: page
+    children: []
 - title: Personnalisation
   target: ''
   kind: blank

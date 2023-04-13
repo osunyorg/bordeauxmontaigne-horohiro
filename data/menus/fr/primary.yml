@@ -1,19 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: La scoliose
-  target: ''
-  kind: blank
-  children:
-  - title: La scoliose simplifiée
-    target: "/la-scoliose-simplifiee/"
-    kind: page
-    children: []
-  - title: Vivre avec un corset
-    target: "/vivre-avec-un-corset/"
-    kind: page
-    children: []
-- title: Personnalisation
+- title: La personnalisation de corsets
   target: ''
   kind: blank
   children:
@@ -29,7 +17,19 @@ items:
     target: "/je-souhaite-organiser-un-atelier/"
     kind: page
     children: []
-- title: Témoignages
+- title: La scoliose
+  target: ''
+  kind: blank
+  children:
+  - title: La scoliose simplifiée
+    target: "/la-scoliose-simplifiee/"
+    kind: page
+    children: []
+  - title: Vivre avec un corset
+    target: "/vivre-avec-un-corset/"
+    kind: page
+    children: []
+- title: Les témoignages
   target: ''
   kind: blank
   children:
@@ -41,7 +41,7 @@ items:
     target: "/partager-mon-vecu/"
     kind: page
     children: []
-- title: À propos
+- title: Notre mission
   target: "/notremission/"
   kind: page
   children: []

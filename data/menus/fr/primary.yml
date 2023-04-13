@@ -17,7 +17,7 @@ items:
     target: "/je-souhaite-organiser-un-atelier/"
     kind: page
     children: []
-- title: Scoliose
+- title: La scoliose
   target: ''
   kind: blank
   children:

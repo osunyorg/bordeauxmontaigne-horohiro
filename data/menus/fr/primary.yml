@@ -45,7 +45,7 @@ items:
   target: "/notremission/"
   kind: page
   children: []
-- title: Contact
+- title: Contacts
   target: "/contact/"
   kind: page
   children: []

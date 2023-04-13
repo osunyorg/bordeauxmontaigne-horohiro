@@ -13,10 +13,6 @@ items:
     target: "/le-corset-comment-vivre-avec/"
     kind: page
     children: []
-  - title: Témoignages
-    target: "/tous-les-temoignages/"
-    kind: page
-    children: []
 - title: Témoignages
   target: ''
   kind: blank

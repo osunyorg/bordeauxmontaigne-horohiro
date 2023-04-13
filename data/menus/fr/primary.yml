@@ -10,7 +10,7 @@ items:
     kind: page
     children: []
   - title: 'Le corset : comment vivre avec ?'
-    target: "/le-corset-comment-vivre-avec/"
+    target: "/vivre-avec-un-corset/"
     kind: page
     children: []
 - title: Témoignages

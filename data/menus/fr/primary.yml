@@ -26,7 +26,7 @@ items:
     kind: page
     children: []
   - title: Je veux partager mon expérience
-    target: "/je-veux-partager-mon-experience/"
+    target: "/partager-une-experience/"
     kind: page
     children: []
 - title: À propos

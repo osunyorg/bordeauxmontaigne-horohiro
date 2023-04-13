@@ -25,10 +25,6 @@ items:
     target: "/customiser-un-corset/"
     kind: page
     children: []
-  - title: Je veux partager mon expérience
-    target: "/partager-une-experience/"
-    kind: page
-    children: []
 - title: À propos
   target: "/a-propos/"
   kind: page

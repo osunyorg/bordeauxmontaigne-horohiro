@@ -41,6 +41,10 @@ items:
     target: "/customiser-un-corset/"
     kind: page
     children: []
+  - title: Je souhaite organiser un atelier
+    target: "/je-souhaite-organiser-un-atelier/"
+    kind: page
+    children: []
 - title: À propos
   target: "/a-propos/"
   kind: page

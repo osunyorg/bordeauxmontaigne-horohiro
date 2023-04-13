@@ -9,7 +9,7 @@ items:
     target: "/la-scoliose-simplifiee/"
     kind: page
     children: []
-  - title: 'Le corset : comment vivre avec ?'
+  - title: Vivre avec un corset
     target: "/vivre-avec-un-corset/"
     kind: page
     children: []

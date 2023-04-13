@@ -5,7 +5,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: La scoliose en toute simplicité
+  - title: La scoliose simplifiée
     target: "/la-scoliose-simplifiee/"
     kind: page
     children: []

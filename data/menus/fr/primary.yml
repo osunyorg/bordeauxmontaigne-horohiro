@@ -17,7 +17,7 @@ items:
     target: "/temoignages/"
     kind: page
     children: []
-- title: Je veux contribuer
+- title: Contribuer
   target: ''
   kind: blank
   children:

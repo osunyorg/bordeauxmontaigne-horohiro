@@ -13,18 +13,6 @@ items:
     target: "/vivre-avec-un-corset/"
     kind: page
     children: []
-- title: Témoignages
-  target: ''
-  kind: blank
-  children:
-  - title: Tous les témoignages
-    target: "/tous-les-temoignages/"
-    kind: page
-    children: []
-  - title: Partager mon vécu
-    target: "/partager-mon-vecu/"
-    kind: page
-    children: []
 - title: Personnalisation
   target: ''
   kind: blank
@@ -39,6 +27,18 @@ items:
     children: []
   - title: Je souhaite organiser un atelier
     target: "/je-souhaite-organiser-un-atelier/"
+    kind: page
+    children: []
+- title: Témoignages
+  target: ''
+  kind: blank
+  children:
+  - title: Tous les témoignages
+    target: "/tous-les-temoignages/"
+    kind: page
+    children: []
+  - title: Partager mon vécu
+    target: "/partager-mon-vecu/"
     kind: page
     children: []
 - title: À propos

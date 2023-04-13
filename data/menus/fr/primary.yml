@@ -29,7 +29,7 @@ items:
     target: "/je-veux-partager-mon-experience/"
     kind: page
     children: []
-- title: À propos d'Horo Hiro
+- title: À propos
   target: "/a-propos/"
   kind: page
   children: []

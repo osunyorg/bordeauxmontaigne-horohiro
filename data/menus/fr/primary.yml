@@ -17,7 +17,7 @@ items:
     target: "/temoignages/"
     kind: page
     children: []
-- title: Contribuer
+- title: Personnalisation
   target: ''
   kind: blank
   children:

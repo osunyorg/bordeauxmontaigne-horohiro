@@ -6,14 +6,15 @@
                     max-height: 40vh
 
 .page__home, .pages__section
-    #block-1 
-        .chapter
-            flex-direction: column-reverse
-            @include media-breakpoint-up(desktop)
-                flex-direction: row-reverse
-                justify-content: space-between
-                figure
-                    margin-left: 0    
+    .blocks
+        .block-chapter
+            .chapter
+                flex-direction: column-reverse
+                @include media-breakpoint-up(desktop)
+                    flex-direction: row-reverse
+                    justify-content: space-between
+                    figure
+                        margin-left: 0    
 
 .hero 
     .content 

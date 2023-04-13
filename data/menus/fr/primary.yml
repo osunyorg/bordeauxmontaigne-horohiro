@@ -6,7 +6,7 @@ items:
   kind: blank
   children:
   - title: La scoliose en toute simplicité
-    target: "/la-scoliose-en-toute-simplicite/"
+    target: "/la-scoliose-simplifiee/"
     kind: page
     children: []
   - title: 'Le corset : comment vivre avec ?'

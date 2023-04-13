@@ -7,7 +7,7 @@
 
 .page__home, .pages__section
     .blocks
-        .block-chapter
+        .block-chapter--with-image
             .chapter
                 flex-direction: column-reverse
                 @include media-breakpoint-up(desktop)
@@ -53,3 +53,20 @@
 .pages__section
     #document-footer
         margin-top: 5rem
+
+hgroup
+    display: grid
+
+.header-cta
+    text-decoration: none
+    display: inline-block
+    border-radius: 0.25rem
+    background: #E8552F
+    padding: 1rem
+    justify-self: end
+    margin-top: 1rem
+    a
+        text-decoration-line: none
+        font-size: 1.125rem
+        font-weight: 500
+        color: #FFF

@@ -29,7 +29,7 @@ items:
     target: "/vivre-avec-un-corset/"
     kind: page
     children: []
-- title: Témoignages
+- title: Les témoignages
   target: ''
   kind: blank
   children:

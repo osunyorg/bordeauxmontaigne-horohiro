@@ -22,7 +22,7 @@ items:
     kind: page
     children: []
   - title: Je suis artiste
-    target: "/customiser-un-corset/"
+    target: "/je-suis-artiste/"
     kind: page
     children: []
   - title: Je souhaite organiser un atelier

@@ -13,4 +13,8 @@ items:
   target: https://twitter.com/horohiro_org
   kind: url
   children: []
+- title: YouTube
+  target: https://www.youtube.com/@HoroHiro
+  kind: url
+  children: []
 

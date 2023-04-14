@@ -74,3 +74,13 @@ hgroup
     .dropdown-menu
         margin-top: 1.25rem
         min-width: 300px
+
+.block-video 
+    .video 
+        padding: 0 calc(2.75rem / 2)
+        @include media-breakpoint-up(desktop)
+            padding: 0
+        iframe
+            width: 220px
+            max-width: 100%
+            aspect-ratio: 9/16

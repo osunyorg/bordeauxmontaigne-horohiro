@@ -12,7 +12,7 @@ full_width: true
 design:
   full_width: true
   toc:
-    present: true
+    present: false
     offcanvas: true
 
 position: 14
@@ -37,12 +37,68 @@ description_short: >
 
 header_text: >-
   Tous les témoignages
-legacy_text: >
-  
+contents:
+  - kind: heading
+    title: >-
+      Témoignages
+    position: 0
+    level: 2
+  - kind: block
+    template: posts
+    title: >
+      
+    position: 1
+    data:
+      category: "/personnes-concernees/"
+      layout: grid
+      posts:
+        - "2023/2023-04-14-le-vecu-dalizee"
+        - "2023/2023-04-11-le-vecu-de-chloe"
+        - "2023/2023-04-11-le-vecu-demma"
+        - "2023/2023-04-11-le-retour-de-lucile"
+        - "2023/2023-04-11-le-retour-de-camille"
+        - "2023/2023-04-11-le-retour-de-jade"
+
+
+  - kind: block
+    template: call_to_action
+    title: >
+      Partager mon expérience
+    position: 2
+    data:
+      text: >-
+        <p>Tu es concerné de près ou de loin par la scoliose ? Partages nous ton expérience !</p>
+
+
+
+
+      alt: >-
+        
+
+
+      credit: >-
+        
+
+
+      buttons:
+        - title: >-
+            Je témoigne
+
+
+          url: >-
+            https://www.horohiro.org/partager-mon-vecu/
+
+
+          target_blank: false
+
+
+
+
+
 blocks:
   - template: posts
     title: >-
-      Témoignages
+      
     position: 1
     data:
       category: "/personnes-concernees/"

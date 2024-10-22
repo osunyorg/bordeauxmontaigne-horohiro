@@ -56,19 +56,27 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 7
+  seconds: 8
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Témoignages
-    slug: "temoignages"
-    position: 1
-    rank: 2
+    slug: >-
+      temoignages
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: posts
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -99,6 +107,8 @@ contents:
     template: call_to_action
     title: >-
       Partager mon expérience
+    slug: >-
+      partager-mon-experience
     ranks:
       self: 3
     data:
@@ -121,7 +131,6 @@ contents:
             https://www.horohiro.org/partager-mon-vecu/
 
           target_blank: false
-
 
 
 

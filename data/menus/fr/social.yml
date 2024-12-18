@@ -4,21 +4,26 @@ items:
 - title: Instagram
   target: https://www.instagram.com/horohiro_org/
   kind: url
+  new_tab: true
   children: []
 - title: Tiktok
   target: https://www.tiktok.com/@horohiro_org
   kind: url
+  new_tab: true
   children: []
 - title: Twitter
   target: https://twitter.com/horohiro_org
   kind: url
+  new_tab: true
   children: []
 - title: YouTube
   target: https://www.youtube.com/@HoroHiro
   kind: url
+  new_tab: true
   children: []
 - title: S'inscrire à la newsletter
   target: http://eepurl.com/io4l2g
   kind: url
+  new_tab: true
   children: []
 

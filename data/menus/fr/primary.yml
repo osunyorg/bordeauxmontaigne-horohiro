@@ -2,81 +2,112 @@
 title: Menu principal
 items:
 - title: La personnalisation de corsets
+  slug: la-personnalisation-de-corsets
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: J'ai un corset
+    slug: j-ai-un-corset
     target: "/jai-un-corset/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/jai-un-corset"
     file: content/fr/pages/jai-un-corset/_index.html
   - title: Je suis artiste
+    slug: je-suis-artiste
     target: "/je-suis-artiste/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/je-suis-artiste"
     file: content/fr/pages/je-suis-artiste/_index.html
   - title: Je souhaite organiser un atelier
+    slug: je-souhaite-organiser-un-atelier
     target: "/je-souhaite-organiser-un-atelier/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/je-souhaite-organiser-un-atelier"
     file: content/fr/pages/je-souhaite-organiser-un-atelier/_index.html
+  descendants_targets:
+  - "/jai-un-corset/"
+  - "/je-souhaite-organiser-un-atelier/"
+  - "/je-suis-artiste/"
 - title: La scoliose
+  slug: la-scoliose
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: La scoliose simplifiée
+    slug: la-scoliose-simplifiee
     target: "/la-scoliose-simplifiee/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/la-scoliose-simplifiee"
     file: content/fr/pages/la-scoliose-simplifiee/_index.html
   - title: Vivre avec un corset
+    slug: vivre-avec-un-corset
     target: "/vivre-avec-un-corset/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/vivre-avec-un-corset"
     file: content/fr/pages/vivre-avec-un-corset/_index.html
+  descendants_targets:
+  - "/la-scoliose-simplifiee/"
+  - "/vivre-avec-un-corset/"
 - title: Les témoignages
+  slug: les-temoignages
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Tous les témoignages
+    slug: tous-les-temoignages
     target: "/tous-les-temoignages/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tous-les-temoignages"
     file: content/fr/pages/tous-les-temoignages/_index.html
   - title: Partager mon vécu
+    slug: partager-mon-vecu
     target: "/partager-mon-vecu/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/partager-mon-vecu"
     file: content/fr/pages/partager-mon-vecu/_index.html
+  descendants_targets:
+  - "/partager-mon-vecu/"
+  - "/tous-les-temoignages/"
 - title: Notre mission
+  slug: notre-mission
   target: "/notremission/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/notremission"
   file: content/fr/pages/notremission/_index.html
 - title: Contact
+  slug: contact
   target: "/contact/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 

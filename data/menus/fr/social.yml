@@ -2,28 +2,38 @@
 title: Liens sociaux
 items:
 - title: Instagram
+  slug: instagram
   target: https://www.instagram.com/horohiro_org/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Tiktok
+  slug: tiktok
   target: https://www.tiktok.com/@horohiro_org
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Twitter
+  slug: twitter
   target: https://twitter.com/horohiro_org
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: YouTube
+  slug: youtube
   target: https://www.youtube.com/@HoroHiro
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: S'inscrire à la newsletter
+  slug: s-inscrire-a-la-newsletter
   target: http://eepurl.com/io4l2g
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

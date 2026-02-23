@@ -7,6 +7,11 @@ osuny:
   website:
     id: 98457847-2764-478e-94da-11190f1d7961
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "horohiro.org"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false

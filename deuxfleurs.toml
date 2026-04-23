@@ -13,3 +13,48 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/customiser-un-corset/"
+to = "/je-suis-artiste/"
+
+[[redirects]]
+from = "/jai-une-scoliose/le-corset-comment-vivre-avec/"
+to = "/vivre-avec-un-corset/"
+
+[[redirects]]
+from = "/a-propos/"
+to = "/notremission/"
+
+[[redirects]]
+from = "/le-corset-comment-vivre-avec/"
+to = "/vivre-avec-un-corset/"
+
+[[redirects]]
+from = "/jai-une-scoliose/temoignages/"
+to = "/tous-les-temoignages/"
+
+[[redirects]]
+from = "/jai-une-scoliose/la-scoliose-en-toute-simplicite/"
+to = "/la-scoliose-simplifiee/"
+
+[[redirects]]
+from = "/la-scoliose-en-toute-simplicite/"
+to = "/la-scoliose-simplifiee/"
+
+[[redirects]]
+from = "/a-propos-horo-hiro/"
+to = "/notremission/"
+
+[[redirects]]
+from = "/temoignages/"
+to = "/tous-les-temoignages/"
+
+[[redirects]]
+from = "/je-veux-partager-mon-experience/"
+to = "/partager-mon-vecu/"
+
+[[redirects]]
+from = "/partager-une-experience/"
+to = "/partager-mon-vecu/"
+

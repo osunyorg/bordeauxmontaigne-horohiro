@@ -15,46 +15,46 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/customiser-un-corset/"
+from = "/customiser-un-corset/index.html"
 to = "/je-suis-artiste/"
 
 [[redirects]]
-from = "/jai-une-scoliose/le-corset-comment-vivre-avec/"
+from = "/jai-une-scoliose/le-corset-comment-vivre-avec/index.html"
 to = "/vivre-avec-un-corset/"
 
 [[redirects]]
-from = "/a-propos/"
+from = "/a-propos/index.html"
 to = "/notremission/"
 
 [[redirects]]
-from = "/le-corset-comment-vivre-avec/"
+from = "/le-corset-comment-vivre-avec/index.html"
 to = "/vivre-avec-un-corset/"
 
 [[redirects]]
-from = "/jai-une-scoliose/temoignages/"
+from = "/jai-une-scoliose/temoignages/index.html"
 to = "/tous-les-temoignages/"
 
 [[redirects]]
-from = "/jai-une-scoliose/la-scoliose-en-toute-simplicite/"
+from = "/jai-une-scoliose/la-scoliose-en-toute-simplicite/index.html"
 to = "/la-scoliose-simplifiee/"
 
 [[redirects]]
-from = "/la-scoliose-en-toute-simplicite/"
+from = "/la-scoliose-en-toute-simplicite/index.html"
 to = "/la-scoliose-simplifiee/"
 
 [[redirects]]
-from = "/a-propos-horo-hiro/"
+from = "/a-propos-horo-hiro/index.html"
 to = "/notremission/"
 
 [[redirects]]
-from = "/temoignages/"
+from = "/temoignages/index.html"
 to = "/tous-les-temoignages/"
 
 [[redirects]]
-from = "/je-veux-partager-mon-experience/"
+from = "/je-veux-partager-mon-experience/index.html"
 to = "/partager-mon-vecu/"
 
 [[redirects]]
-from = "/partager-une-experience/"
+from = "/partager-une-experience/index.html"
 to = "/partager-mon-vecu/"
 

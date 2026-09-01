@@ -51,6 +51,10 @@ from = "/temoignages/index.html"
 to = "/tous-les-temoignages/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/horohiro-logo-reduitsvg/"
+
+[[redirects]]
 from = "/je-veux-partager-mon-experience/index.html"
 to = "/partager-mon-vecu/"
 
